@@ -1,0 +1,15 @@
+Name: Certify
+Actor: web customer
+Description: This functionality certifies the customer and get for him loyalty points
+ from promo code services so he can book performances by this loyalty points or credit card.
+Precondition: get into web page
+Postcondition: customer is certified 
+Flow of events:
+	1.Get into web page
+	2.The customer will sign up
+	3.Customer get into promo code services web page
+	3.Customer can get loyalty points from promo code services 
+Alternative path : None 
+
+
+

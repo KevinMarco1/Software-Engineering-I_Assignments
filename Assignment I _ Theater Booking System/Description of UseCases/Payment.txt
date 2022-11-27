@@ -1,0 +1,27 @@
+Name : Payment
+Actor : Web Customer 
+precondition : must be authenticated or certified & have sufficent money
+postcondition : booked the ticket
+flow of events :
+	1.Customer must be choose the performance he prefers
+	2.Customer will pay for seat 
+	3.Customer will checkout
+	
+Alternative path:
+	A1 : Pay by credit card	
+		1.Customer provides information of the credit card
+		2.The system validate the information of the credit card and accept for payment
+		3. Customer will check out 
+	
+	
+
+	A2 : Pay by loyalty points
+		1. Customer must be certified 
+		2. Customer have enough loyalty points and pay for the performacne 
+		3. Customer will check out 
+
+Special Requirements :
+ 	1.If the customer enter password of credit card wrong the system will make him to wirte it again.
+	2.If the customer do not have enough money or loyalty points the system will cancel the book.
+	
+	

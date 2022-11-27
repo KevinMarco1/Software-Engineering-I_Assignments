@@ -1,0 +1,20 @@
+Name: book seat. 
+Actor: web customer 
+Description: helps the customer to book the performance he/she want. 
+precondition: get into web page 
+postcondition:  customer booked some performance.
+
+Flow of events: 
+1.    Customers open the web page
+2.    Customer will choose the icon of book seat and get into the view performances
+3.    The customer will have some options and will choose to explore 
+4.    The customer will choose the type of performance he prefers
+5.    Customer will choose the performance he likes
+6.    Customer will be login in and pay for performance by credit card or loyalty points 
+7.    Customer will check out
+
+
+
+
+Special requirements: when the customer click at book seat icon there is a screen will be
+			appeared dividing the genre of the performances he prefers.

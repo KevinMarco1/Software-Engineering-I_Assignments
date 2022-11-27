@@ -1,0 +1,21 @@
+Functional :
+1.    Book seat
+2.    View performance 
+3.    Check out 
+4.    Certify
+5.    Explore
+6.    Search
+7.    Joining waiting list
+8.    View offers
+9.    Add seats to cart 
+10.   Payment
+
+Non Functional:
+1.    The system could cancel the book seat for some customer.
+2.    If some performances have been completed the customer can’t book for this performance and add it to waiting list.
+3.    The system should divide the performances into groups and each group have the same type of performances.
+4.    The system must support some interfaces like Facebook and Twitter for authentication.
+5.    If the customer enter password of credit card wrong the system will make him to wirte it again.
+6.    If the customer do not have enough money or loyalty points the system will cancel the book.
+
+	

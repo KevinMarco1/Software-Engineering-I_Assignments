@@ -1,0 +1,14 @@
+Name : Search
+Actor: Web Customer 
+precondition : get into view perfomances 
+postcondition :	Customer get the perfomance he search
+flow of events :
+	1.Customer search for specific performance 
+	2.Found the performance he want
+	3.Customer will choose  add performance to cart , book for performacne  or leave 
+
+alternative path : None
+
+Special requirements: None
+
+
